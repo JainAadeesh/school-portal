@@ -12,7 +12,7 @@ A simple Next.js + MySQL mini-project with two pages:
 🔗 [Live Deployment](https://scholportal.netlify.app/)  
 
 ## 📂 GitHub Repository
-🔗 [GitHub Repo](https://github.com/your-username/school-portal)
+🔗 [GitHub Repo](https://github.com/JainAadeesh/school-portal)
 
 ## Setup
 1. Create database and table:
