@@ -8,6 +8,12 @@ A simple Next.js + MySQL mini-project with two pages:
 - Node.js 18+
 - MySQL 8+
 
+## 🚀 Live Demo
+🔗 [Live Deployment](https://scholportal.netlify.app/)  
+
+## 📂 GitHub Repository
+🔗 [GitHub Repo](https://github.com/your-username/school-portal)
+
 ## Setup
 1. Create database and table:
 
